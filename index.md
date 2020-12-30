@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my First Page
 
-You can use the [editor on GitHub](https://github.com/abhiguptag22/just-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I can use the [editor on GitHub](https://github.com/abhiguptag22/just-learning/edit/gh-pages/index.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
 
-[Link](url) and ![Image](src)
-```
+[Link](https://abhiguptag22.github.io/just-learning/) and ![Image](src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fdisney.fandom.com%2Fwiki%2FDaredevil&psig=AOvVaw08z0R4HsgXmVyXenNzZCzC&ust=1609395800424000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCDv-GI9e0CFQAAAAAdAAAAABAF)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
